@@ -1,1 +1,1 @@
-web: python src/run.py
+pybot: python src/run.py
